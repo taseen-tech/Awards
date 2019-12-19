@@ -1,0 +1,25 @@
+ img{width:425px;}
+ body{
+  background-color: black;}
+  h1 {
+    color: gold;
+}
+h2{font-style:italic;}
+h2 {
+    color: gold;
+}
+  h1:hover{background-color:white;}
+  h1{font-style:italic;}
+  body {
+    text-align: center;
+    background: url(https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    width:750px;
+}
+
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color:darkorange;
+    text-decoration: underline;
+    font-size: 50px;
+    text-align: center;
+}
